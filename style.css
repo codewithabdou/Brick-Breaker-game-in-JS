@@ -1,0 +1,32 @@
+#gameScreen{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: tan;
+}
+
+img{
+    display: none;
+}
+
+#description{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: tan;
+    font-family: cursive;
+    position: fixed;
+    padding: 5px;
+    left: 850px;
+    top: 100px;
+}
+
+h2{
+    border: 1px solid;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: rgb(245, 11, 11);
+    font-family: cursive;
+    position: fixed;
+    padding: 5px;
+    left: 810px;
+    top: 565px;
+}
